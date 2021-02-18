@@ -8,9 +8,9 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   putarKiri();
-  delay(1000);
+  delay(500);
   putarKanan();
-  delay(1000);
+  delay(500);
 }
 
 void putarKiri(){
